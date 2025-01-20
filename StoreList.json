@@ -1,1 +1,228 @@
-..Data
+{
+    "deliveryPoints":[
+       {
+          "pointId":"001",
+          "pointName":"Leganes ParqueSur",
+          "location":{
+             "addressComponents":{
+                "streetNumber":"s/n",
+                "route":"Av. gran bretaña",
+                "locality":"Leganés",
+                "administrativeAreaLevel1":"M",
+                "postalCode":"28916",
+                "country":"Spain",
+                "countryCode":"ES"
+             },
+             "geometry":{
+                "location":{
+                   "lat": 40.35750825684516,
+                   "lng": -3.718501631486695
+                }
+             }
+          },
+          "openingHours":{
+            "weekdayText": [
+               "Monday: 10:00 AM – 10:00 PM",
+               "Tuesday: 10:00 AM – 10:00 PM",
+               "Wednesday: 10:00 AM – 10:00 PM",
+               "Thursday: 10:00 AM – 10:00 PM",
+               "Friday: 10:00 AM – 10:00 PM",
+               "Saturday: 10:00 AM – 10:00 PM",
+               "Sunday: 11:00 AM – 9:00 PM"
+             ]
+          }
+       },
+       {
+         "pointId":"002",
+         "pointName":"Alcorcon Alcora",
+         "location":{
+            "addressComponents":{
+               "streetNumber":"22",
+               "route":"Av. de Europa",
+               "locality":"Alcorcón",
+               "administrativeAreaLevel1":"M",
+               "postalCode":"28922",
+               "country":"Spain",
+               "countryCode":"ES"
+            },
+            "geometry":{
+               "location":{
+                  "lat": 40.370050599223504,
+                  "lng": -3.8563615976399084
+               }
+            }
+         },
+         "openingHours":{
+           "weekdayText": [
+              "Monday: 10:00 AM – 10:00 PM",
+              "Tuesday: 10:00 AM – 10:00 PM",
+              "Wednesday: 10:00 AM – 10:00 PM",
+              "Thursday: 10:00 AM – 10:00 PM",
+              "Friday: 10:00 AM – 10:00 PM",
+              "Saturday: 10:00 AM – 10:00 PM",
+              "Sunday: 11:00 AM – 9:00 PM"
+            ]
+         }
+      },
+      {
+         "pointId":"003",
+         "pointName":"Madrid Vaguada",
+         "location":{
+            "addressComponents":{
+               "streetNumber":"36",
+               "route":"Av. de Monforte de Lemos",
+               "locality":"Fuencarral-El Pardo",
+               "administrativeAreaLevel1":"M",
+               "postalCode":"28029",
+               "country":"Spain",
+               "countryCode":"ES"
+            },
+            "geometry":{
+               "location":{
+                  "lat": 40.529760838630075,
+                  "lng": -3.6970021198374248
+               }
+            }
+         },
+         "openingHours":{
+           "weekdayText": [
+              "Monday: 10:00 AM – 10:00 PM",
+              "Tuesday: 10:00 AM – 10:00 PM",
+              "Wednesday: 10:00 AM – 10:00 PM",
+              "Thursday: 10:00 AM – 10:00 PM",
+              "Friday: 10:00 AM – 10:00 PM",
+              "Saturday: 10:00 AM – 10:00 PM",
+              "Sunday: 11:00 AM – 9:00 PM"
+            ]
+         }
+      },
+      {
+         "pointId":"004",
+         "pointName":"Barcelona LaMaquinista",
+         "location":{
+            "addressComponents":{
+               "streetNumber":"2",
+               "route":"C/ de Potosí",
+               "locality":"Sant Andreu",
+               "administrativeAreaLevel1":"B",
+               "postalCode":"08030",
+               "country":"Spain",
+               "countryCode":"ES"
+            },
+            "geometry":{
+               "location":{
+                  "lat": 41.46349667773577,
+                  "lng": 2.184927410669838
+               }
+            }
+         },
+         "openingHours":{
+           "weekdayText": [
+              "Monday: 10:00 AM – 10:00 PM",
+              "Tuesday: 10:00 AM – 10:00 PM",
+              "Wednesday: 10:00 AM – 10:00 PM",
+              "Thursday: 10:00 AM – 10:00 PM",
+              "Friday: 10:00 AM – 10:00 PM",
+              "Saturday: 10:00 AM – 10:00 PM",
+              "Sunday: Closed"
+            ]
+         }
+      },
+      {
+         "pointId":"005",
+         "pointName":"Barcelona Glories",
+         "location":{
+            "addressComponents":{
+               "streetNumber":"208",
+               "route":"Av. Diagonal",
+               "locality":"Sant Martí",
+               "administrativeAreaLevel1":"B",
+               "postalCode":"08018",
+               "country":"Spain",
+               "countryCode":"ES"
+            },
+            "geometry":{
+               "location":{
+                  "lat": 41.427101807372665,
+                  "lng": 2.1888116638012765
+               }
+            }
+         },
+         "openingHours":{
+           "weekdayText": [
+              "Monday: 9:00 AM – 9:00 PM",
+              "Tuesday: 9:00 AM – 9:00 PM",
+              "Wednesday: 9:00 AM – 9:00 PM",
+              "Thursday: 9:00 AM – 9:00 PM",
+              "Friday: 9:00 AM – 9:00 PM",
+              "Saturday: 10:00 AM – 9:00 PM",
+              "Sunday: Closed"
+            ]
+         }
+      },
+      {
+        "pointId":"006",
+        "pointName":"Zaragoza PuertoVenecia",
+        "location":{
+           "addressComponents":{
+              "streetNumber":"7",
+              "route":"Tr.ª de los Jardines Reales",
+              "locality":"Zaragoza",
+              "administrativeAreaLevel1":"Z",
+              "postalCode":"50021",
+              "country":"Spain",
+              "countryCode":"ES"
+           },
+           "geometry":{
+              "location":{
+                 "lat":41.70827665621853,
+                 "lng":-0.872535162049406
+              }
+           }
+        },
+        "openingHours":{
+          "weekdayText": [
+             "Monday: 9:00 AM – 10:00 PM",
+             "Tuesday: 9:00 AM – 10:00 PM",
+             "Wednesday: 9:00 AM – 10:00 PM",
+             "Thursday: 9:00 AM – 10:00 PM",
+             "Friday: 9:00 AM – 10:00 PM",
+             "Saturday: 10:00 AM – 10:00 PM",
+             "Sunday: Closed"
+           ]
+        }
+     },
+     {
+        "pointId":"007",
+        "pointName":"Torrejon Oasiz",
+        "location":{
+           "addressComponents":{
+             "streetNumber":"7",
+            "route":"Av. de los Premios Nobel",
+              "locality":"Torrejón de Ardoz",
+              "administrativeAreaLevel1":"M",
+              "postalCode":"28850",
+              "country":"Spain",
+              "countryCode":"ES"
+           },
+           "geometry":{
+              "location":{
+                 "lat":40.52350484334172,
+                "lng":-3.4089365189202625
+              }
+           }
+        },
+        "openingHours":{
+          "weekdayText": [
+             "Monday: 9:00 AM – 10:00 PM",
+             "Tuesday: 9:00 AM – 10:00 PM",
+             "Wednesday: 9:00 AM – 10:00 PM",
+             "Thursday: 9:00 AM – 10:00 PM",
+             "Friday: 9:00 AM – 10:00 PM",
+             "Saturday: 10:00 AM – 10:00 PM",
+             "Sunday: Closed"
+           ]
+        }
+     }
+  ]
+ }
