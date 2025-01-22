@@ -1,0 +1,214 @@
+{
+    "deliveryPoints": [
+     {
+       "pointId": "001",
+       "pointName": "Barakaldo Megapark",
+       "location": {
+         "addressComponents": {
+           "streetNumber": "s/n",
+           "route": "Erribera Etorbidea",
+           "locality": "Barakaldo",
+           "administrativeArea": {
+             "name": "Bizkaia",
+             "code": "BI"
+           },
+           "postalCode": "48903",
+           "country": "Spain",
+           "countryCode": "ES"
+         },
+         "geometry": {
+           "location": {
+             "lat":43.42273694129061,
+             "lng":-3.006596996744144
+           }
+         }
+       },
+       "openingHours": {
+         "weekdayText": [
+           "Monday: 10:00 AM – 10:00 PM",
+              "Tuesday: 10:00 AM – 10:00 PM",
+              "Wednesday: 10:00 AM – 10:00 PM",
+              "Thursday: 10:00 AM – 10:00 PM",
+              "Friday: 10:00 AM – 10:00 PM",
+              "Saturday: 10:00 AM – 10:00 PM",
+              "Sunday: Closed"
+         ]
+       }
+     },
+     {
+       "pointId": "002",
+       "pointName": "Arroyomolinos Xanadu",
+       "location": {
+         "addressComponents": {
+           "streetNumber": "s/n",
+           "route": "C. Puerto de Navacerrada, km 23",
+           "locality": "Arroyomolinos",
+           "administrativeArea": {
+             "name": "Madrid",
+             "code": "M"
+           },
+           "postalCode": "28939",
+           "country": "Spain",
+           "countryCode": "ES"
+         },
+         "geometry": {
+           "location": {
+             "lat":40.31359168251921,
+             "lng":-3.9345508321745664
+           }
+         }
+       },
+       "openingHours": {
+         "weekdayText": [
+           "Monday: 10:00 AM – 10:00 PM",
+              "Tuesday: 10:00 AM – 10:00 PM",
+              "Wednesday: 10:00 AM – 10:00 PM",
+              "Thursday: 10:00 AM – 10:00 PM",
+              "Friday: 10:00 AM – 10:00 PM",
+              "Saturday: 10:00 AM – 10:00 PM",
+              "Sunday: Closed"
+         ]
+       }
+     },
+     {
+       "pointId": "003",
+       "pointName": "Oviedo Parque Principado",
+       "location": {
+         "addressComponents": {
+           "streetNumber": "5",
+           "route": "Autovía Ruta de la Plata, KM. 4",
+           "locality": "Paredes El Cuetu",
+           "administrativeArea": {
+             "name": "Asturias",
+             "code": "AS"
+           },
+           "postalCode": "33429",
+           "country": "Spain",
+           "countryCode": "ES"
+         },
+         "geometry": {
+           "location": {
+             "lat":43.3918452,
+             "lng":-5.7994568
+           }
+         }
+       },
+       "openingHours": {
+         "weekdayText": [
+           "Monday: 10:00 AM – 10:00 PM",
+              "Tuesday: 10:00 AM – 10:00 PM",
+              "Wednesday: 10:00 AM – 10:00 PM",
+              "Thursday: 10:00 AM – 10:00 PM",
+              "Friday: 10:00 AM – 10:00 PM",
+              "Saturday: 10:00 AM – 10:00 PM",
+              "Sunday: Closed"
+         ]
+       }
+     },
+     {
+       "pointId": "004",
+       "pointName": "Toledo Luz Del Tajo",
+       "location": {
+         "addressComponents": {
+           "streetNumber": "s/n",
+           "route": "Av. del Río Boladie",
+           "locality": "Toledo",
+           "administrativeArea": {
+             "name": "Toledo",
+             "code": "TO"
+           },
+           "postalCode": "45007",
+           "country": "Spain",
+           "countryCode": "ES"
+         },
+         "geometry": {
+           "location": {
+             "lat":39.92021352537673,
+             "lng":-3.9695302265716506
+           }
+         }
+       },
+       "openingHours": {
+         "weekdayText": [
+           "Monday: 10:00 AM – 10:00 PM",
+              "Tuesday: 10:00 AM – 10:00 PM",
+              "Wednesday: 10:00 AM – 10:00 PM",
+              "Thursday: 10:00 AM – 10:00 PM",
+              "Friday: 10:00 AM – 10:00 PM",
+              "Saturday: 10:00 AM – 10:00 PM",
+              "Sunday: Closed"
+         ]
+       }
+     },
+     {
+       "pointId": "005",
+       "pointName": "Mijas Miramar",
+       "location": {
+         "addressComponents": {
+           "streetNumber": "s/n",
+           "route": "Av. Carmen Sáenz de Tejada",
+           "locality": "Mijas",
+           "administrativeArea": {
+             "name": "Málaga",
+             "code": "MA"
+           },
+           "postalCode": "29649",
+           "country": "Spain",
+           "countryCode": "ES"
+         },
+         "geometry": {
+           "location": {
+             "lat":36.53578424077536,
+             "lng":-4.634570191830678
+           }
+         }
+       },
+       "openingHours": {
+         "weekdayText": [
+           "Monday: 10:00 AM – 10:00 PM",
+              "Tuesday: 10:00 AM – 10:00 PM",
+              "Wednesday: 10:00 AM – 10:00 PM",
+              "Thursday: 10:00 AM – 10:00 PM",
+              "Friday: 10:00 AM – 10:00 PM",
+              "Saturday: 10:00 AM – 10:00 PM",
+              "Sunday: Closed"
+         ]
+       }
+     },
+     {
+       "pointId": "006",
+       "pointName": "Maliano BahiaReal",
+       "location": {
+         "addressComponents": {
+           "streetNumber": "2",
+           "route": "C/ Enrique Gran",
+           "locality": "Camargo",
+           "administrativeArea": {
+             "name": "Sevilla",
+             "code": "S"
+           },
+           "postalCode": "39600",
+           "country": "Spain",
+           "countryCode": "ES"
+         },
+         "geometry": {
+           "location": {
+             "lat":43.52330089805927,
+             "lng":-3.8103345708499536
+           }
+         }
+       },
+       "openingHours":{
+         "weekdayText": [
+            "Monday: 10:00 AM – 9:00 PM",
+            "Tuesday: 10:00 AM – 9:00 PM",
+            "Wednesday: 10:00 AM – 9:00 PM",
+            "Thursday: 10:00 AM – 9:00 PM",
+            "Friday: 10:00 AM – 9:00 PM",
+            "Saturday: 10:00 AM – 10:00 PM",
+            "Sunday: Closed"
+          ]
+       }
+     }
+    ]
+  }

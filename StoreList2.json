@@ -1,0 +1,214 @@
+{
+    "deliveryPoints": [
+      {
+        "pointId": "001",
+        "pointName": "Almeria Torrecardenas",
+        "location": {
+          "addressComponents": {
+            "streetNumber": "44",
+            "route": "C/ Médico Francisco Pérez Company",
+            "locality": "Almeria",
+            "administrativeArea": {
+              "name": "Almería",
+              "code": "AL"
+            },
+            "postalCode": "04009",
+            "country": "Spain",
+            "countryCode": "ES"
+          },
+          "geometry": {
+            "location": {
+              "lat":37.13225477228291,
+              "lng":-2.4649584250819605
+            }
+          }
+        },
+        "openingHours": {
+          "weekdayText": [
+            "Monday: 10:00 AM – 10:00 PM",
+               "Tuesday: 10:00 AM – 10:00 PM",
+               "Wednesday: 10:00 AM – 10:00 PM",
+               "Thursday: 10:00 AM – 10:00 PM",
+               "Friday: 10:00 AM – 10:00 PM",
+               "Saturday: 10:00 AM – 10:00 PM",
+               "Sunday: Closed"
+          ]
+        }
+      },
+      {
+       "pointId": "002",
+       "pointName": "Sevilla Lagoh",
+       "location": {
+         "addressComponents": {
+           "streetNumber": "1",
+           "route": "Av. de Palmas Altas",
+           "locality": "Sevilla",
+           "administrativeArea": {
+             "name": "Sevilla",
+             "code": "SE"
+           },
+           "postalCode": "41012",
+           "country": "Spain",
+           "countryCode": "ES"
+         },
+         "geometry": {
+           "location": {
+             "lat":37.67650327261818,
+             "lng":-6.145135367554304
+           }
+         }
+       },
+       "openingHours": {
+         "weekdayText": [
+           "Monday: 10:00 AM – 10:00 PM",
+              "Tuesday: 10:00 AM – 10:00 PM",
+              "Wednesday: 10:00 AM – 10:00 PM",
+              "Thursday: 10:00 AM – 10:00 PM",
+              "Friday: 10:00 AM – 10:00 PM",
+              "Saturday: 10:00 AM – 10:00 PM",
+              "Sunday: Closed"
+         ]
+       }
+     },
+     {
+       "pointId": "003",
+       "pointName": "Valladolid RioShopping",
+       "location": {
+         "addressComponents": {
+           "streetNumber": "3",
+           "route": "C. Me Falta un Tornillo",
+           "locality": "Valladolid",
+           "administrativeArea": {
+             "name": "Arroyo de la Encomienda",
+             "code": "VA"
+           },
+           "postalCode": "47195",
+           "country": "Spain",
+           "countryCode": "ES"
+         },
+         "geometry": {
+           "location": {
+             "lat":41.715173113556,
+             "lng":-4.798839403370892
+           }
+         }
+       },
+       "openingHours": {
+         "weekdayText": [
+           "Monday: 10:00 AM – 10:00 PM",
+              "Tuesday: 10:00 AM – 10:00 PM",
+              "Wednesday: 10:00 AM – 10:00 PM",
+              "Thursday: 10:00 AM – 10:00 PM",
+              "Friday: 10:00 AM – 10:00 PM",
+              "Saturday: 10:00 AM – 10:00 PM",
+              "Sunday: Closed"
+         ]
+       }
+     },
+     {
+       "pointId": "004",
+       "pointName": "Jerez AreaSur",
+       "location": {
+         "addressComponents": {
+           "streetNumber": "Local B16A",
+           "route": "N-IV, km 639",
+           "locality": "Jerez de la Frontera",
+           "administrativeArea": {
+             "name": "Cádiz",
+             "code": "CA"
+           },
+           "postalCode": "11408",
+           "country": "Spain",
+           "countryCode": "ES"
+         },
+         "geometry": {
+           "location": {
+             "lat":40.343763916644,
+             "lng":-3.8527357578278
+           }
+         }
+       },
+       "openingHours": {
+         "weekdayText": [
+           "Monday: 10:00 AM – 10:00 PM",
+              "Tuesday: 10:00 AM – 10:00 PM",
+              "Wednesday: 10:00 AM – 10:00 PM",
+              "Thursday: 10:00 AM – 10:00 PM",
+              "Friday: 10:00 AM – 10:00 PM",
+              "Saturday: 10:00 AM – 10:00 PM",
+              "Sunday: Closed"
+         ]
+       }
+     },
+     {
+       "pointId": "005",
+       "pointName": "Cornella Splau",
+       "location": {
+         "addressComponents": {
+           "streetNumber": "s/n",
+           "route": "Av. del Baix Llobregat",
+           "locality": "Cornellà de Llobregat",
+           "administrativeArea": {
+             "name": "Barcelona",
+             "code": "B"
+           },
+           "postalCode": "08940",
+           "country": "Spain",
+           "countryCode": "ES"
+         },
+         "geometry": {
+           "location": {
+             "lat":41.368827558164305,
+             "lng":2.1208372340011037
+           }
+         }
+       },
+       "openingHours": {
+         "weekdayText": [
+           "Monday: 09:00 AM – 09:00 PM",
+              "Tuesday: 09:00 AM – 09:00 PM",
+              "Wednesday: 09:00 AM – 09:00 PM",
+              "Thursday: 09:00 AM – 09:00 PM",
+              "Friday: 09:00 AM – 09:00 PM",
+              "Saturday: 09:00 AM – 09:00 PM",
+              "Sunday: Closed"
+         ]
+       }
+     },
+     {
+       "pointId": "006",
+       "pointName": "San Sebastian Garbera",
+       "location": {
+         "addressComponents": {
+           "streetNumber": "1",
+           "route": "C.C. Garbera Garbera Zeharbidea, Garberako",
+           "locality": "Donostia-San Sebastian",
+           "administrativeArea": {
+             "name": "Gipuzkoa",
+             "code": "SS"
+           },
+           "postalCode": "20017",
+           "country": "Spain",
+           "countryCode": "ES"
+         },
+         "geometry": {
+           "location": {
+             "lat":43.402604069889655,
+             "lng":-1.8887550833326157
+           }
+         }
+       },
+       "openingHours": {
+         "weekdayText": [
+           "Monday: 10:00 AM – 10:00 PM",
+              "Tuesday: 10:00 AM – 10:00 PM",
+              "Wednesday: 10:00 AM – 10:00 PM",
+              "Thursday: 10:00 AM – 10:00 PM",
+              "Friday: 10:00 AM – 10:00 PM",
+              "Saturday: 10:00 AM – 10:00 PM",
+              "Sunday: Closed"
+         ]
+       }
+     }
+    ]
+  }
