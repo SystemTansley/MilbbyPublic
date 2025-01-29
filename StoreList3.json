@@ -5,8 +5,8 @@
        "pointName": "Barakaldo Megapark",
        "location": {
          "addressComponents": {
-           "route": "Erribera Etorbidea",
            "streetNumber": "s/n",
+           "route": "Erribera Etorbidea",
            "locality": "Barakaldo",
            "administrativeArea": {
              "name": "Bizkaia",
