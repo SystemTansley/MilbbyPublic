@@ -2,7 +2,7 @@
     "deliveryPoints": [
       {
         "pointId": "001",
-        "pointName": "CC Marineda City",
+        "pointName": "CC MarinedaCity",
         "location": {
           "addressComponents": {
             "streetNumber": "43",
