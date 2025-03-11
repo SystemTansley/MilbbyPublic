@@ -1,0 +1,39 @@
+{
+    "deliveryPoints": [
+      {
+        "pointId": "001",
+        "pointName": "C.C. Marineda City",
+        "location": {
+          "addressComponents": {
+            "streetNumber": "43",
+            "route": "Est. Baños de Arteixo",
+            "locality": "A Coruña",
+            "administrativeArea": {
+              "name": "A Coruña",
+              "code": "C"
+            },
+            "postalCode": "15008",
+            "country": "Spain",
+            "countryCode": "ES"
+          },
+          "geometry": {
+            "location": {
+              "lat": 43.3446186,
+              "lng": -8.430250
+            }
+          }
+        },
+        "openingHours": {
+          "weekdayText": [
+            "Monday: 10:00 AM – 10:00 PM",
+               "Tuesday: 10:00 AM – 10:00 PM",
+               "Wednesday: 10:00 AM – 10:00 PM",
+               "Thursday: 10:00 AM – 10:00 PM",
+               "Friday: 10:00 AM – 10:00 PM",
+               "Saturday: 10:00 AM – 10:00 PM",
+               "Sunday: 10:00 AM – 10:00 PM"
+          ]
+        }
+      }
+    ]
+  }
