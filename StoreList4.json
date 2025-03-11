@@ -18,8 +18,8 @@
           },
           "geometry": {
             "location": {
-              "lat": 43.3446186,
-              "lng": -8.430250
+              "lat": 43.344949,
+              "lng": -8.4325946
             }
           }
         },
@@ -31,7 +31,7 @@
                "Thursday: 10:00 AM – 10:00 PM",
                "Friday: 10:00 AM – 10:00 PM",
                "Saturday: 10:00 AM – 10:00 PM",
-               "Sunday: 10:00 AM – 10:00 PM"
+               "Sunday: Closed"
           ]
         }
       }
