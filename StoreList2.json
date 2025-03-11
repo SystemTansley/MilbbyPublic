@@ -75,7 +75,7 @@
        "pointName": "Valladolid RioShopping",
        "location": {
          "addressComponents": {
-           "streetNumber": "3",
+           "streetNumber": "03",
            "route": "C. Me Falta un Tornillo",
            "locality": "Valladolid",
            "administrativeArea": {
