@@ -1,37 +1,40 @@
 {
     "deliveryPoints":[
        {
-          "pointId":"001",
-          "pointName":"Leganes ParqueSur",
-          "location":{
-             "addressComponents":{
-                "streetNumber":"s/n",
-                "route":"Av. gran bretaña",
-                "locality":"Leganés",
-                "administrativeAreaLevel1":"M",
-                "postalCode":"28916",
-                "country":"Spain",
-                "countryCode":"ES"
-             },
-             "geometry":{
-                "location":{
-                   "lat": 40.3390722,
-                   "lng": -3.7351586
-                }
-             }
+        "pointId": "001",
+        "pointName": "CC Ferial Plaza",
+        "location": {
+          "addressComponents": {
+            "streetNumber": "13-19",
+            "route": "Av. de Eduardo Guitián",
+            "locality": "Guadalajara",
+            "administrativeArea": {
+              "name": "Guadalajara",
+              "code": "GU"
+            },
+            "postalCode": "19002",
+            "country": "Spain",
+            "countryCode": "ES"
           },
-          "openingHours":{
-            "weekdayText": [
-               "Monday: 10:00 AM – 10:00 PM",
+          "geometry": {
+            "location": {
+              "lat": 40.6208727,
+              "lng": -3.1682125
+            }
+          }
+        },
+        "openingHours": {
+          "weekdayText": [
+            "Monday: 10:00 AM – 10:00 PM",
                "Tuesday: 10:00 AM – 10:00 PM",
                "Wednesday: 10:00 AM – 10:00 PM",
                "Thursday: 10:00 AM – 10:00 PM",
                "Friday: 10:00 AM – 10:00 PM",
                "Saturday: 10:00 AM – 10:00 PM",
-               "Sunday: 11:00 AM – 9:00 PM"
-             ]
-          }
-       },
+               "Sunday: Closed"
+          ]
+        }
+      },
        {
          "pointId":"002",
          "pointName":"Alcorcon Alcora",
