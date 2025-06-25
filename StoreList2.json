@@ -209,6 +209,41 @@
               "Sunday: Closed"
          ]
        }
+     },
+    {
+       "pointId": "007",
+       "pointName": "Madrid C.C.Islazul",
+       "location": {
+         "addressComponents": {
+           "streetNumber": "1",
+           "route": "C. de la Calderilla, Carabanchel, Madrid",
+           "locality": "Madrid",
+           "administrativeArea": {
+             "name": "Madrid",
+             "code": "M"
+           },
+           "postalCode": "28054",
+           "country": "Spain",
+           "countryCode": "ES"
+         },
+         "geometry": {
+           "location": {
+             "lat": 40.3637278,
+             "lng": -3.740054
+           }
+         }
+       },
+       "openingHours": {
+         "weekdayText": [
+           "Monday: 10:00 AM – 10:00 PM",
+              "Tuesday: 10:00 AM – 10:00 PM",
+              "Wednesday: 10:00 AM – 10:00 PM",
+              "Thursday: 10:00 AM – 10:00 PM",
+              "Friday: 10:00 AM – 10:00 PM",
+              "Saturday: 10:00 AM – 10:00 PM",
+              "Sunday: 10:00 AM – 10:00 PM"
+         ]
+       }
      }
     ]
   }
